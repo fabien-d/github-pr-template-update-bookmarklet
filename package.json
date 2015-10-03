@@ -1,0 +1,21 @@
+{
+  "name": "github-pr-template-update-bookmarklet",
+  "version": "1.0.0",
+  "description": "Update prefilled GitHub PRs with new attached issues",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fabien-d/github-pr-template-bookmarklet.git"
+  },
+  "author": {
+    "name": "Fabien Doiron"
+  },
+  "keywords": [
+    "github",
+    "bookmarklet",
+    "pr",
+    "template",
+    "quality"
+  ],
+  "devDependencies": {}
+}
